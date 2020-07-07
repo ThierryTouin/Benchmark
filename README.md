@@ -1,5 +1,5 @@
 
-## Test result : analyze logger
+## Logger Analysis Performance Test
 
 | Test number | Tested code      |  Score (ops/s)  | Perf Result 
 | :--: | ------------- | ------------- | :-------------: |
